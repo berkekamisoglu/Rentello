@@ -1,0 +1,5 @@
+RentalID    RentalStatusID StatusName                                        
+----------- -------------- --------------------------------------------------
+         35              6 Odendi                                            
+
+(1 rows affected)

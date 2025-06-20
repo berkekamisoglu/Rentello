@@ -1,0 +1,5 @@
+PaymentID   RentalID    PaymentStatus                 
+----------- ----------- ------------------------------
+         17          35 Completed                     
+
+(1 rows affected)

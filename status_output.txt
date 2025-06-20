@@ -1,0 +1,10 @@
+RentalStatusID StatusName                                         Length     
+-------------- -------------------------------------------------- -----------
+             1 Rezerve Edildi                                              14
+             2 Aktif                                                        5
+             3 Gecikmis                                                     8
+             4 Tamamlandi                                                  10
+             5 Iptal Edildi                                                12
+             6 Odendi                                                       6
+
+(6 rows affected)
