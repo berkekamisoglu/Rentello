@@ -151,7 +151,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 For any questions, suggestions, or issues, please contact:
 
-* Project Owner: \[Your Name]
+* Project Owner: Berke Kamişoğlu
 * Email: \[[berkekamisoglu1@gmai.com](mailto:berkekamisoglu1@gmai.com)]
 * GitHub: [github.com/berkekamisoglu/rentello](https://github.com/berkekamisoglu/rentello)
 
